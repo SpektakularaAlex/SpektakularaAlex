@@ -15,7 +15,9 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 - Co-founder of **SPEKTAKEL** (student platform/project)
 - Research Assistant on Celestial Mechanics
 
-
+<p align="center">
+  <img src="figues/accuracy_per_digit_vs_k.png" width="700">
+</p>
 
 ## Tech I often use
 
