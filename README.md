@@ -1,4 +1,4 @@
-# Alex 👋
+# Alex 
 <p>
   <img src="https://img.shields.io/badge/Focus-Scientific%20Computing-blue" />
   <img src="https://img.shields.io/badge/Tools-Python%20%7C%20MATLAB%20%7C%20Git-informational" />
