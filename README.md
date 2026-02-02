@@ -16,7 +16,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 - Research Assistant on Celestial Mechanics
 
 <p align="center">
-  <img src="figues/accuracy_per_digit_vs_k.png" width="700">
+  <img src="figues/3-body_sim.png" width="700">
 </p>
 
 ## Tech I often use
