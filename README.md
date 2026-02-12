@@ -19,11 +19,29 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
   <img src="figues/3-body_sim.png" width="700">
 </p>
 
+<p align="center" width="400">
+  <img src="figues/Pressure_dist_t2_cL1_cR4_rohL1_rohR01_beta4.png" width="95%">
+  <br><em>Pressure field simulation using SBP operators as well as RK4</em>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="figues/LC_figures_chaotic.png" width="95%">
+      <br><em>3-body chaotic simulation example (3D trajectory view).</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figues/3-body_Lagrange_unit_circ.png" width="95%">
+      <br><em>3-body Lagrange Unit Circle solution</em>
+    </td>
+  </tr>
+</table>
+
 ## Tech I often use
 
 **Languages:** Python, MATLAB, C/C++, Java Script  
-**Tools:** NumPy, SciPy, Matplotlib, LaTeX, React
-**Focus:** numerical linear algebra, simulation, optimization, machine learning
+**Tools:** NumPy, SciPy, Matplotlib, LaTeX, React, PyTorch, Scikit
+**Focus:** numerical linear algebra, simulation, optimization, machine learning, partial differential equations
 
 
 ### Contact
