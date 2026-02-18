@@ -30,11 +30,22 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
   <tr>
     <td align="center" width="50%">
       <img src="figues/LC_figures_chaotic.png" width="95%">
-      <br><em>3-body chaotic simulation example</em>
+      <br><em>3-body chaotic simulation example in LC-regularized coordinates</em>
     </td>
     <td align="center" width="50%">
       <img src="figues/3-body_Lagrange_unit_circ.png" width="95%">
       <br><em>3-body Lagrange Unit Circle solution</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="figues/Family_Cartesian_2.png" width="95%">
+      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in cartesian coordinates</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figues/Family_LC.png" width="95%">
+      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in Levi Civita regularized coordinates (found using pseudo-arclength continuation)</em>
     </td>
   </tr>
 </table>
