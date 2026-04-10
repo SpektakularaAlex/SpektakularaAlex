@@ -19,7 +19,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c0f178b-44a8-4680-aa00-7150950a576d" width="60%" alt="Orbit family animation with STM">
-  <br><em>Family of periodic orbits computed using the State Transition Matrix</em>
+  <br><em>Family of periodic orbits computed for the Levi Civita regularized equations of motion allowing continuation through singularity</em>
 </p>
 
 
