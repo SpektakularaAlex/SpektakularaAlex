@@ -12,7 +12,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 - Studying Engineering Physics at Uppsala University  
 - Teaching Assistant & piano instructor  
 - Student representative (ENLIGHT)  
-- Co-founder of **SPEKTAKEL** (student platform/project)
+- Co-founder of [**SPEKTAKEL**](https://spektakels.se) (student platform/project)
 - Research Assistant on Celestial Mechanics
 
 ## Some of my current/past research- and course work
