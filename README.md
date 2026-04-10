@@ -18,8 +18,11 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 ## Some of my current/past research- and course work
 
 <p align="center">
-  <img src="figues/3-body_sim.png" width="700">
+  <img src="https://github.com/user-attachments/assets/6c0f178b-44a8-4680-aa00-7150950a576d" width="60%" alt="Orbit family animation with STM">
+  <br><em>Family of periodic orbits computed using the State Transition Matrix</em>
 </p>
+
+
 
 <p align="center" width="400">
   <img src="figues/Pressure_dist_t2_cL1_cR4_rohL1_rohR01_beta4.png" width="95%">
