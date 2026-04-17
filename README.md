@@ -37,7 +37,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
     </td>
     <td align="center" width="50%">
       <img src="figues/Manifolds_L1_Lyapunov_936_2.png" width="95%">
-      <br><em>3-body Stable and unstable manifolds of an L1 Lyapunov periodic orbit in the CR3BP</em>
+      <br><em>Stable and unstable manifolds of an L1 Lyapunov periodic orbit in the CR3BP</em>
     </td>
   </tr>
 
