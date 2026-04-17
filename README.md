@@ -32,23 +32,23 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="figues/LC_figures_chaotic.png" width="95%">
-      <br><em>3-body chaotic simulation example in LC-regularized coordinates</em>
+      <img src="figues/LC_STM_continuation_to_cart_1.png" width="95%">
+      <br><em> Pseudo Arclength continuation through collision with the moon in the CR3BP using Levi Civita regularization </em>
     </td>
     <td align="center" width="50%">
       <img src="figues/Manifolds_L1_Lyapunov_936_2.png" width="95%">
-      <br><em>3-body Stable and unstable manifolds of an L1 Lyapunov periodic orbit</em>
+      <br><em>3-body Stable and unstable manifolds of an L1 Lyapunov periodic orbit in the CR3BP</em>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
       <img src="figues/Manifolds_L1_Lyapunov_936_1.png" width="95%">
-      <br><em>Stable and unstable manifolds of an L1 Lyapunov periodic orbit</em>
+      <br><em>Stable and unstable manifolds of an L1 Lyapunov periodic orbit in the CR3BP</em>
     </td>
     <td align="center" width="50%">
       <img src="figues/Manifolds_L2_Lyaponov_864_1.png" width="95%">
-      <br><em>Stable and unstable manifolds of an L2 Lyapunov periodic orbit</em>
+      <br><em>Stable and unstable manifolds of an L2 Lyapunov periodic orbit in the CR3BP</em>
     </td>
   </tr>
 </table>
