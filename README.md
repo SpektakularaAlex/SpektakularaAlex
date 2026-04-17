@@ -36,19 +36,19 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
       <br><em>3-body chaotic simulation example in LC-regularized coordinates</em>
     </td>
     <td align="center" width="50%">
-      <img src="figues/3-body_Lagrange_unit_circ.png" width="95%">
-      <br><em>3-body Lagrange Unit Circle solution</em>
+      <img src="figues/Manifolds_L1_Lyapunov_936_2.png" width="95%">
+      <br><em>3-body Stable and unstable manifolds of an L1 Lyapunov periodic orbit</em>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <img src="figues/Family_Cartesian_2.png" width="95%">
-      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in cartesian coordinates</em>
+      <img src="figues/Manifolds_L1_Lyapunov_936_1.png" width="95%">
+      <br><em>Stable and unstable manifolds of an L1 Lyapunov periodic orbit</em>
     </td>
     <td align="center" width="50%">
-      <img src="figues/Family_LC.png" width="95%">
-      <br><em>Family of solutions approaching collision with the m2 primary (the moon) in Levi Civita regularized coordinates (found using pseudo-arclength continuation)</em>
+      <img src="figues/Manifolds_L2_Lyaponov_864_1.png" width="95%">
+      <br><em>Stable and unstable manifolds of an L2 Lyapunov periodic orbit</em>
     </td>
   </tr>
 </table>
