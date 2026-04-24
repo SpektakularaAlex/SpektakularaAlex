@@ -18,7 +18,7 @@ I build things at the intersection of **scientific computing**, **applied ML**, 
 ## Some of my current/past research- and course work
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c0f178b-44a8-4680-aa00-7150950a576d" width="60%" alt="Orbit family animation with STM">
+  <img src="figues/Animation_Continuation_through_collision_duo.gif" width="60%" alt="Orbit family animation with STM">
   <br><em>Family of periodic orbits computed for the Levi Civita regularized equations of motion allowing continuation through singularity</em>
 </p>
 
